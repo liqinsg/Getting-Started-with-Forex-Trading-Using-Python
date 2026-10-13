@@ -13,10 +13,6 @@ Use API and FIX protocol to send orders
 Translate trading ideas into code
 Run reliable backtesting emulating real-world market conditions
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1804616850) today!
-
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"></a>
-
 ## Instructions and Navigations
 
 All of the code is organized into folders. For example, Chapter04.
