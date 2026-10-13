@@ -1,23 +1,5 @@
 ---
-## Join Our Newsletters 📬
-
-### DataPro  
-*The future of AI is unfolding. Don’t fall behind.*
-
-<p><a href="https://landing.packtpub.com/subscribe-datapronewsletter/?link_from_packtlink=yes"><img src="https://static.packt-cdn.com/assets/images/DataPro NL QR Code.png" alt="DataPro QR" width="150"/></a></p>
-
-Stay ahead with [**DataPro**](https://landing.packtpub.com/subscribe-datapronewsletter/?link_from_packtlink=yes), the free weekly newsletter for data scientists, AI/ML researchers, and data engineers.  
-From trending tools like **PyTorch**, **scikit-learn**, **XGBoost**, and **BentoML** to hands-on insights on **database optimization** and real-world **ML workflows**, you’ll get what matters, fast.
-
-> Stay sharp with [DataPro](https://landing.packtpub.com/subscribe-datapronewsletter/?link_from_packtlink=yes). Join **115K+ data professionals** who never miss a beat.
----
 # Getting Started with Forex Trading Using Python
-
-<a href="https://www.amazon.com/Getting-Started-Forex-Trading-Python/dp/1804616850/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781801810135"></a>
-
-This is the code repository for [Getting Started with Forex Trading Using Python](https://www.amazon.com/Getting-Started-Forex-Trading-Python/dp/1804616850/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781801810135), published by Packt.
-
-**Beginner’s guide to the currency market and development of trading algorithms**
 
 ## What is this book about?
 
